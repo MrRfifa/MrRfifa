@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrRfifa
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Flutter-Dart
-<!--- - 💞️ I’m looking to collaborate on mobile project --->
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning React/NodeJs
+<!--- - 💞️ I’m looking to collaborate on web project --->
 - 📫 How to reach me : anouarrafifa99@gmail.com
 
 <!---
