@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [mr-rfifa.netlify.app](mr-rfifa.netlify.app)
+- 👨‍💻 All of my projects are available at [mr-rfifa.netlify.app](mr-rfifa.vercel.app)
 
 - 📫 How to reach me **anouarrafifa99@gmail.com**
 
