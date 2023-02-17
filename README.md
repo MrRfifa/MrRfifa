@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anouar Rfifa</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on [M.I.T.A Srls](https://mita-srl.netlify.app)
+- 🔭 I’m currently working on Performance Testing Monitoring application.
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning some **Testing tools**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://mr-rfifa.vercel.app)
 
