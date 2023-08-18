@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 I'm currently working on Performance Testing Monitoring application<br><!--<br>🧠 I'm currently learning **Testing tools**<br>--><!--<br>👯‍♀️ I'm looking to collaborate on devops projects<br>--><br>📫 How to reach me **anouarrafifa99@gmail.com**<br><br>👨‍💻 All of my projects are available at [my portfolio](https://mr-rfifa.vercel.app)
+👩‍💻 I'm currently learning **Devops**<br><!--<br>🧠 I'm currently learning **Devops**<br>--><!--<br>👯‍♀️ I'm looking to collaborate on devops projects<br>--><br>📫 How to reach me **anouarrafifa99@gmail.com**<br><br>👨‍💻 All of my projects are available at [my portfolio](https://mr-rfifa.vercel.app)
 
 
 ## 🌐 Socials:
